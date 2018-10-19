@@ -1,2 +1,5 @@
 un fichier dans rep2
+<<<<<<< HEAD
 on ajoute une ligne
+=======
+>>>>>>> 35573e8ace944cad86aa7d7fae6bdb048381dd8e
